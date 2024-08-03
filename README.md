@@ -7,15 +7,31 @@
 - [ ] [CircuitVerse](https://circuitverse.org/)
 - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)
 
+## C
+
+- [ ] [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
+- [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
+
+## C game programming 
+
+- [ ] [raylib](https://www.raylib.com/)
+- [ ] [Handmade Hero](https://handmadehero.org/)
+
 ## Algorithms
 
 - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 
-
+## Operating systems, etc.
 - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
      
 ## Compilers
 
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
+
+## Ruby C extensions
+
+- [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
