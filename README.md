@@ -12,6 +12,7 @@
 - [ ] [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
+- [ ] [Exercism - C](https://exercism.org/tracks/c)
 
 ## C game programming 
 
