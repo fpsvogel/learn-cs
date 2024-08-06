@@ -16,8 +16,8 @@
 
 ## C game programming 
 
-- [ ] [raylib](https://www.raylib.com/)
 - [ ] [Handmade Hero](https://handmadehero.org/)
+- [ ] Make a game, taking inspiration from [high_impact](https://phoboslab.org/log/2024/08/high_impact), [raylib](https://www.raylib.com/), [Box2D 3.x](https://github.com/erincatto/box2c) (or see [box2d-raylib](https://github.com/erincatto/box2d-raylib))
 
 ## Algorithms
 
