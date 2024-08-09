@@ -2,10 +2,9 @@
 
 ## How computers work
 
-- [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
-- [ ] [NandGame](https://nandgame.com)
-- [ ] [CircuitVerse](https://circuitverse.org/)
+- [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100) with [NandGame](https://nandgame.com) for practice
 - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)
+- [ ] Build a computer in [CircuitVerse](https://circuitverse.org/)
 
 ## C
 
