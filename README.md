@@ -8,8 +8,8 @@
 
 ## C
 
-- [ ] [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 - [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
+- [ ] [CS50 problem sets (1-5)](https://cs50.harvard.edu/x/2024/psets/) and solutions: [1](https://github.com/BogdanOtava/CS50x), [2](https://github.com/kylekce/CS50x-2023), [3](https://github.com/VerisimilitudeX/CS50), [4](https://github.com/gionet/CS50-2023), [5](https://github.com/yasingunay/CS50x), [6](https://github.com/csfive/CS50x), [7](https://github.com/evieran/CS50-Solutions), [8](https://github.com/Aadv1k/cs50/tree/master/Introduction_To_Computer_Science), [9](https://github.com/uxdruh/cs50x-2024), [10](https://github.com/vncsmnl/CS50X)
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
 - [ ] [Exercism - C](https://exercism.org/tracks/c)
 
