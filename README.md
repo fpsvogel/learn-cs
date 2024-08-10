@@ -2,7 +2,8 @@
 
 ## How computers work
 
-- [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100) with [NandGame](https://nandgame.com) for practice
+- [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
+- [ ] [NandGame](https://nandgame.com) and solutions: [1](https://www.reddit.com/r/nandgame_u/wiki/index/level-solutions/), [2](https://github.com/timlg07/NandGame-Solutions/blob/master/Solutions.md), [3](https://github.com/simsieg/nandgame-solutions)
 - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)
 - [ ] Build a computer in [CircuitVerse](https://circuitverse.org/)
 
