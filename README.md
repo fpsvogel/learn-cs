@@ -1,4 +1,4 @@
-# Learn C (and computer science)
+# Learn Computer Science and Low-Level Programming
 
 ## How computers work
 
@@ -14,12 +14,24 @@
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
 - [ ] [Exercism - C](https://exercism.org/tracks/c)
 
-## C game programming 
+## C game programming
 
 - [ ] [Handmade Hero videos](https://handmadehero.org/) plus [Handmade Penguin](https://davidgow.net/handmadepenguin/) to follow along in Linux
 - [ ] [Handmade Quake videos](https://www.dropbox.com/scl/fo/l6nqvbl5v0snbd7vo2c7x/AHnBbVV6SUDYIJPSH_jGfaQ?rlkey=osvqri75z18xcds8tsi31enfg&e=1&dl=0) and [source code](https://github.com/Kobzol/handmade-quake)
 - [ ] [Kohi Game Engine videos](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj)
 - [ ] Make a game, taking inspiration from [high_impact](https://phoboslab.org/log/2024/08/high_impact), [raylib](https://www.raylib.com/), [Box2D 3.x](https://github.com/erincatto/box2c) (or see [box2d-raylib](https://github.com/erincatto/box2d-raylib))
+
+## Zig (a better C)
+
+- [ ] [Learning Zig](https://www.openmymind.net/learning_zig/)
+- [ ] [zig.guide](https://zig.guide/)
+- [ ] [Learn Zig in Y minutes](https://learnxinyminutes.com/docs/zig/)
+- [ ] [A half-hour to learn Zig](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
+- [ ] [Zig - Learn (official docs)](https://ziglang.org/learn/)
+- [ ] [ziglings (exercises)](https://codeberg.org/ziglings/exercises/)
+- [ ] [Zig Cookbook](https://github.com/zigcc/zig-cookbook)
+- [ ] [Exercism - Zig](https://exercism.org/tracks/zig)
+- [ ] [More learning resources in an Awesome Zig list](https://github.com/C-BJ/awesome-zig#learning)
 
 ## Algorithms
 
@@ -30,7 +42,7 @@
 - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
-     
+
 ## Compilers
 
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
