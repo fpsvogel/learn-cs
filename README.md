@@ -33,10 +33,17 @@
 - [ ] [Exercism - Zig](https://exercism.org/tracks/zig)
 - [ ] [More learning resources in an Awesome Zig list](https://github.com/C-BJ/awesome-zig#learning)
 
-## Algorithms
+## Data Structures and Algorithms
 
 - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
+- [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
+- [ ] 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
+- [ ] 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+- [ ] Practice on LeetCode using a familiar high-level language (for me Ruby).
+  - Ruby solutions: [1](https://github.com/ACEMerlin/leetcode-ruby), [2](https://github.com/remy727/leetcode), [3](https://github.com/ganeshskudva/Leetcode-Ruby), [4](https://github.com/acearth/LeetCodePractice), [5](https://github.com/catluri/Leetcode-Ruby)
+  - [Algorithms Ruby gem](https://github.com/kanwei/algorithms) that is [included in the LeetCode environment](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages).
+- [ ] Practice on LeetCode using a low-level language such as C.
 
 ## Operating systems, etc.
 - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
