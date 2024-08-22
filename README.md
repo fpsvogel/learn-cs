@@ -13,6 +13,7 @@
 - [ ] [CS50 problem sets (1-5)](https://cs50.harvard.edu/x/2024/psets/) and solutions: [1](https://github.com/BogdanOtava/CS50x), [2](https://github.com/kylekce/CS50x-2023), [3](https://github.com/VerisimilitudeX/CS50), [4](https://github.com/gionet/CS50-2023), [5](https://github.com/yasingunay/CS50x), [6](https://github.com/csfive/CS50x), [7](https://github.com/evieran/CS50-Solutions), [8](https://github.com/Aadv1k/cs50/tree/master/Introduction_To_Computer_Science), [9](https://github.com/uxdruh/cs50x-2024), [10](https://github.com/vncsmnl/CS50X)
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
 - [ ] [Exercism - C](https://exercism.org/tracks/c)
+- [ ] Look into "better C" languages: [Zig](https://ziglang.org/), [Odin](https://odin-lang.org/), [Beef](https://www.beeflang.org/), [V](https://vlang.io/), [Jai](https://github.com/Jai-Community/Jai-Community-Library/wiki), [C3](https://c3-lang.org/), and [others](https://github.com/robertmuth/awesome-low-level-programming-languages) (minus the C++ replacements like Rust, which are too complex for my purposes)
 
 ## C game programming
 
@@ -20,18 +21,6 @@
 - [ ] [Handmade Quake videos](https://www.dropbox.com/scl/fo/l6nqvbl5v0snbd7vo2c7x/AHnBbVV6SUDYIJPSH_jGfaQ?rlkey=osvqri75z18xcds8tsi31enfg&e=1&dl=0) and [source code](https://github.com/Kobzol/handmade-quake)
 - [ ] [Kohi Game Engine videos](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj)
 - [ ] Make a game, taking inspiration from [high_impact](https://phoboslab.org/log/2024/08/high_impact), [raylib](https://www.raylib.com/), [Box2D 3.x](https://github.com/erincatto/box2c) (or see [box2d-raylib](https://github.com/erincatto/box2d-raylib))
-
-## Zig (a better C)
-
-- [ ] [Learning Zig](https://www.openmymind.net/learning_zig/)
-- [ ] [zig.guide](https://zig.guide/)
-- [ ] [Learn Zig in Y minutes](https://learnxinyminutes.com/docs/zig/)
-- [ ] [A half-hour to learn Zig](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
-- [ ] [Zig - Learn (official docs)](https://ziglang.org/learn/)
-- [ ] [ziglings (exercises)](https://codeberg.org/ziglings/exercises/)
-- [ ] [Zig Cookbook](https://github.com/zigcc/zig-cookbook)
-- [ ] [Exercism - Zig](https://exercism.org/tracks/zig)
-- [ ] [More learning resources in an Awesome Zig list](https://github.com/C-BJ/awesome-zig#learning)
 
 ## Data Structures and Algorithms
 
