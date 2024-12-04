@@ -8,6 +8,11 @@
 - [ ] Build a computer in [CircuitVerse](https://circuitverse.org/)
 - [ ] [Arithmazium](www.arithmazium.org/)
 
+## Zig
+
+- [ ] [Introduction to Zig: a project-based book](https://pedropark99.github.io/zig-book)
+- [ ] [Zig - "Learn" page listing other resources](https://ziglang.org/learn)
+
 ## C
 
 - [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
@@ -15,7 +20,7 @@
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
 - [ ] [Exercism - C](https://exercism.org/tracks/c)
 - [ ] Advent of Code: [CLI/runner written in C](https://github.com/breakthatbass/eggnog); I can't find any repos with solutions for all years, but probably there are repos with solutions for a specific year.
-- [ ] Look into "better C" languages: [Zig](https://ziglang.org/), [Odin](https://odin-lang.org/), [Beef](https://www.beeflang.org/), [V](https://vlang.io/), [Jai](https://github.com/Jai-Community/Jai-Community-Library/wiki), [C3](https://c3-lang.org/), [MiniLang](https://github.com/NICUP14/MiniLang), and [others](https://github.com/robertmuth/awesome-low-level-programming-languages) (minus the C++ replacements like Rust, which are too complex for my purposes)
+- [ ] Look into other "better C" languages besides Zig: [Odin](https://odin-lang.org/), [Beef](https://www.beeflang.org/), [V](https://vlang.io/), [Jai](https://github.com/Jai-Community/Jai-Community-Library/wiki), [C3](https://c3-lang.org/), [MiniLang](https://github.com/NICUP14/MiniLang), and [others](https://github.com/robertmuth/awesome-low-level-programming-languages) (minus the C++ replacements like Rust, which are too complex for my purposes)
 
 ## C game programming
 
