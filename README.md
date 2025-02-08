@@ -35,6 +35,8 @@
 
 ## Data Structures and Algorithms
 
+<!-- See also https://github.com/fpsvogel/faang-interview-prep -->
+
 - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
