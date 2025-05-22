@@ -48,10 +48,15 @@
   - [Algorithms Ruby gem](https://github.com/kanwei/algorithms) that is [included in the LeetCode environment](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages).
 - [ ] Practice on LeetCode using a low-level language such as C.
 
-## Operating systems, etc.
+## Operating systems
+
 - [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+
+## Concurrency
+
+- [ ] 💲[Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
 
 ## Compilers
 
