@@ -6,7 +6,8 @@
 
 - [How computers work](#how-computers-work)
 - [Operating systems](#operating-systems)
-- [Misc.](#misc)
+- [Concurrency](#concurrency)
+- [Compilers](#compilers)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Zig](#zig)
 - [C](#c)
@@ -29,11 +30,13 @@
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
 
-## Misc.
+## Concurrency
 
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
+
+## Compilers
+
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
-- [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
 
 ## Data Structures and Algorithms
 
