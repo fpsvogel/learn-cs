@@ -33,6 +33,7 @@
 ## Concurrency
 
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
+- [ ] [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
 
 ## Compilers
 
