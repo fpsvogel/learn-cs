@@ -30,7 +30,7 @@
 
 ## Misc.
 
-- [ ] 💲[Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
+- [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
 
