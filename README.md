@@ -1,4 +1,16 @@
+<!-- omit in toc -->
 # Learn Computer Science and Low-Level Programming
+
+<!-- omit in toc -->
+## Table of contents
+
+- [How computers work](#how-computers-work)
+- [Operating systems](#operating-systems)
+- [Misc.](#misc)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Zig](#zig)
+- [C](#c)
+- [C game programming](#c-game-programming)
 
 ## How computers work
 
@@ -9,6 +21,32 @@
 - [ ] 💲[Digital Design and Computer Architecture](https://pages.hmc.edu/harris/ddca/)
 - [ ] Build a computer in [CircuitVerse](https://circuitverse.org/) or [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
 - [ ] [Arithmazium](www.arithmazium.org/)
+
+## Operating systems
+
+- [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
+- [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+
+## Misc.
+
+- [ ] 💲[Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
+- [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
+- [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
+
+## Data Structures and Algorithms
+
+<!-- See also https://github.com/fpsvogel/faang-interview-prep -->
+
+- [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
+- [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
+- [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
+- [ ] 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
+- [ ] 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+- [ ] Practice on LeetCode using a familiar high-level language (for me Ruby).
+  - Ruby solutions: [1](https://github.com/ACEMerlin/leetcode-ruby), [2](https://github.com/remy727/leetcode), [3](https://github.com/ganeshskudva/Leetcode-Ruby), [4](https://github.com/acearth/LeetCodePractice), [5](https://github.com/catluri/Leetcode-Ruby)
+  - [Algorithms Ruby gem](https://github.com/kanwei/algorithms) that is [included in the LeetCode environment](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages).
+- [ ] Practice on LeetCode using a low-level language such as C.
 
 ## Zig
 
@@ -33,35 +71,3 @@
 - [ ] Make a game, taking inspiration from [high_impact](https://phoboslab.org/log/2024/08/high_impact), [raylib](https://www.raylib.com/), [Box2D 3.x](https://github.com/erincatto/box2c) (or see [box2d-raylib](https://github.com/erincatto/box2d-raylib))
   - Or make a text-based game: see [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html) and [Knuth's C port of Colossal Cave Adventure](http://www.literateprogramming.com/adventure.pdf) (which, incidentally, is an example of *literate programming*, now reincarnated in [Entangled](https://entangled.github.io/))
 - [Handmade Network](https://handmade.network)
-
-## Data Structures and Algorithms
-
-<!-- See also https://github.com/fpsvogel/faang-interview-prep -->
-
-- [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
-- [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
-- [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
-- [ ] 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
-- [ ] 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
-- [ ] Practice on LeetCode using a familiar high-level language (for me Ruby).
-  - Ruby solutions: [1](https://github.com/ACEMerlin/leetcode-ruby), [2](https://github.com/remy727/leetcode), [3](https://github.com/ganeshskudva/Leetcode-Ruby), [4](https://github.com/acearth/LeetCodePractice), [5](https://github.com/catluri/Leetcode-Ruby)
-  - [Algorithms Ruby gem](https://github.com/kanwei/algorithms) that is [included in the LeetCode environment](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages).
-- [ ] Practice on LeetCode using a low-level language such as C.
-
-## Operating systems
-
-- [x] 💲[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
-- [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
-
-## Concurrency
-
-- [ ] 💲[Grokking Concurrency](https://www.manning.com/books/grokking-concurrency)
-
-## Compilers
-
-- [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
-
-## Ruby C extensions
-
-- [ ] [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
