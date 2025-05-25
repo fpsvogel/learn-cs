@@ -4,30 +4,31 @@
 <!-- omit in toc -->
 ## Table of contents
 
-- [How computers work](#how-computers-work)
-- [Operating systems](#operating-systems)
+- [Computer systems](#computer-systems)
+  - [Basics](#basics)
+  - [Deeper dives](#deeper-dives)
 - [Concurrency](#concurrency)
 - [Compilers](#compilers)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Data structures and algorithms](#data-structures-and-algorithms)
 - [Zig](#zig)
 - [C](#c)
 - [C game programming](#c-game-programming)
 
-## How computers work
+## Computer systems
+
+### Basics
 
 - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
 - [ ] [NandGame](https://nandgame.com) and solutions: [1](https://www.reddit.com/r/nandgame_u/wiki/index/level-solutions/), [2](https://github.com/timlg07/NandGame-Solutions/blob/master/Solutions.md), [3](https://github.com/simsieg/nandgame-solutions)
-- [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)
-- [ ] 💲[Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
-- [ ] 💲[Digital Design and Computer Architecture](https://pages.hmc.edu/harris/ddca/)
-- [ ] Build a computer in [CircuitVerse](https://circuitverse.org/) or [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution)
-- [ ] [Arithmazium](www.arithmazium.org/)
-
-## Operating systems
-
 - [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)
+
+### Deeper dives
+
+- [ ] Practice building a computer in [CircuitVerse](https://circuitverse.org/), [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution), or 💲[Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
 - [ ] [xv6, a simple Unix-like teaching operating system (MIT course)](https://pdos.csail.mit.edu/6.1810/2024/xv6.html)
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
+- [ ] 💲[Digital Design and Computer Architecture](https://pages.hmc.edu/harris/ddca/)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
 
 ## Concurrency
@@ -39,7 +40,7 @@
 
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 
-## Data Structures and Algorithms
+## Data structures and algorithms
 
 <!-- See also https://github.com/fpsvogel/faang-interview-prep -->
 
