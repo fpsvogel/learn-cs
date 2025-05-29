@@ -38,7 +38,10 @@
 
 ## Compilers
 
-- [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
+- [ ] [Destroy All Software - A Compiler from Scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
+- [ ] [Writing a compiler in Ruby, bottom up](https://hokstad.com/compiler) and related resources at the bottom of that page
+- [ ] 💲[Crafting Interpreters](https://craftinginterpreters.com/)
+- [ ] 💲[Build Your Own Compiler from Scratch](https://build-your-own.org/compiler/)
 
 ## Data structures and algorithms
 
