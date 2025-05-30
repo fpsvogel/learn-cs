@@ -10,6 +10,9 @@
 - [Concurrency](#concurrency)
 - [Compilers](#compilers)
 - [Data structures and algorithms](#data-structures-and-algorithms)
+  - [Textbooks](#textbooks)
+  - [Interview guides](#interview-guides)
+  - [LeetCode](#leetcode)
 - [Zig](#zig)
 - [C](#c)
 - [C game programming](#c-game-programming)
@@ -45,17 +48,35 @@
 
 ## Data structures and algorithms
 
-<!-- See also https://github.com/fpsvogel/faang-interview-prep -->
+### Textbooks
 
 - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 - [ ] 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
 - [ ] 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
-- [ ] Practice on LeetCode using a familiar high-level language (for me Ruby).
-  - Ruby solutions: [1](https://github.com/ACEMerlin/leetcode-ruby), [2](https://github.com/remy727/leetcode), [3](https://github.com/ganeshskudva/Leetcode-Ruby), [4](https://github.com/acearth/LeetCodePractice), [5](https://github.com/catluri/Leetcode-Ruby)
-  - [Algorithms Ruby gem](https://github.com/kanwei/algorithms) that is [included in the LeetCode environment](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages).
-- [ ] Practice on LeetCode using a low-level language such as C.
+
+### Interview guides
+
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
+- 💲[Beyond Cracking the Coding Interview](https://www.beyondctci.com/) (solutions for free at [interviewing.io](https://start.interviewing.io))
+- 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
+
+### LeetCode
+
+- Ruby solutions: [1](https://github.com/ACEMerlin/leetcode-ruby), [2](https://github.com/remy727/leetcode), [3](https://github.com/ganeshskudva/Leetcode-Ruby), [4](https://github.com/acearth/LeetCodePractice), [5](https://github.com/catluri/Leetcode-Ruby)
+- [Algorithms Ruby gem](https://github.com/kanwei/algorithms) that is [included in the LeetCode environment](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages).
+- [Grind75](https://www.techinterviewhandbook.org/grind75)
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [20 Essential Coding Patterns to Ace Your Next Coding Interview](https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3)
+- [Coding Interview Patterns](https://dvpr.gitbook.io/coding-interview-patterns)
+- [AlgoMonster - Patterns](https://algo.monster/problems/stats)
+- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
+- 💲[Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview)
+- [An interview algorithms tier list](https://www.reddit.com/r/leetcode/comments/u7452n/technical_interview_algorithms_the_tier_list/)
+- [Another algorithms tier list](https://www.reddit.com/r/cscareerquestions/comments/v1unyi/tier_list_for_patterns_encountered_in/)
+- Other resource lists: [1](https://github.com/jwasham/coding-interview-university), [2](https://github.com/armankhondker/best-leetcode-resources), [3](https://github.com/mxssl/sre-interview-prep-guide#big-o-notation-algorithms-and-data-structures)
 
 ## Zig
 
