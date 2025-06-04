@@ -3,6 +3,8 @@
 
 I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn't get a computer science degree and don't do any low-level programming for work. So this list is me catching up on those.
 
+My "Learn Ruby" list slightly overlaps with the material in this list, namely in the sections ["Foundations"](https://github.com/fpsvogel/learn-ruby#foundations) and ["Beyond Ruby"](https://github.com/fpsvogel/learn-ruby#beyond-ruby).
+
 <!-- omit in toc -->
 ## Table of contents
 
@@ -10,6 +12,7 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
   - [Basics](#basics)
   - [Deeper dives](#deeper-dives)
 - [Concurrency](#concurrency)
+- [Database internals](#database-internals)
 - [Compilers](#compilers)
 - [Data structures and algorithms](#data-structures-and-algorithms)
   - [Textbooks](#textbooks)
@@ -41,6 +44,16 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
 - [ ] [Gossip Glomers (distibuted systems challenges)](https://fly.io/dist-sys/)
+
+## Database internals
+
+- [ ] [How does a relational database work?](https://web.archive.org/web/20230307091314/http://coding-geek.com/how-databases-work/)
+- [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [ ] [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
+- [ ] 💲[Database Internals](https://www.databass.dev/)
+- [ ] [Transaction Processing](https://archive.org/details/transactionproce0000gray/page/n5/mode/2up)
+- [ ] [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
+- [ ] [Readings in Database Systems](http://www.redbook.io/)
 
 ## Compilers
 
