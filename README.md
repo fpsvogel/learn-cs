@@ -40,6 +40,7 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
 
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
+- [ ] [Gossip Glomers (distibuted systems challenges)](https://fly.io/dist-sys/)
 
 ## Compilers
 
