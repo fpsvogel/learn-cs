@@ -1,6 +1,8 @@
 <!-- omit in toc -->
 # Learn Computer Science and Low-Level Programming
 
+I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn't get a computer science degree and don't do any low-level programming for work. So this list is me catching up on those.
+
 <!-- omit in toc -->
 ## Table of contents
 
