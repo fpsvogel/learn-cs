@@ -8,9 +8,8 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 <!-- omit in toc -->
 ## Table of contents
 
-- [Computer systems](#computer-systems)
-  - [Basics](#basics)
-  - [Deeper dives](#deeper-dives)
+- [Hardware systems](#hardware-systems)
+- [Operating systems](#operating-systems)
 - [Concurrency](#concurrency)
 - [Database internals](#database-internals)
 - [Compilers](#compilers)
@@ -22,22 +21,20 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [C](#c)
 - [C game programming](#c-game-programming)
 
-## Computer systems
-
-### Basics
+## Hardware systems
 
 - [x] 💲[Code: The Hidden Language of Computer Hardware and Software](https://www.informit.com/store/code-the-hidden-language-of-computer-hardware-and-software-9780137909100)
 - [ ] [NandGame](https://nandgame.com) and solutions: [1](https://www.reddit.com/r/nandgame_u/wiki/index/level-solutions/), [2](https://github.com/timlg07/NandGame-Solutions/blob/master/Solutions.md), [3](https://github.com/simsieg/nandgame-solutions)
-- [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [x] From Nand to Tetris: [Part 1](https://www.coursera.org/learn/build-a-computer), [Part 2](https://www.coursera.org/learn/nand2tetris2)
-
-### Deeper dives
-
 - [ ] Practice building a computer in [CircuitVerse](https://circuitverse.org/), [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution), or 💲[Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
-- [ ] [xv6, a simple Unix-like teaching operating system (MIT course)](https://pdos.csail.mit.edu/6.1810/2024/xv6.html)
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
 - [ ] 💲[Digital Design and Computer Architecture](https://pages.hmc.edu/harris/ddca/)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+
+## Operating systems
+
+- [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [xv6, a simple Unix-like teaching operating system (MIT course)](https://pdos.csail.mit.edu/6.1810/2024/xv6.html)
 
 ## Concurrency
 
