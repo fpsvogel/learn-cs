@@ -1,7 +1,7 @@
 <!-- omit in toc -->
-# Learn Computer Science and Low-Level Programming
+# Learn Computer Science
 
-I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn't get a computer science degree and don't do any low-level programming for work. So this list is me catching up on those.
+I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn't get a computer science degree. So this list is me catching up.
 
 My "Learn Ruby" list slightly overlaps with the material in this list, namely in the sections ["Foundations"](https://github.com/fpsvogel/learn-ruby#foundations) and ["Beyond Ruby"](https://github.com/fpsvogel/learn-ruby#beyond-ruby).
 
@@ -20,9 +20,10 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
   - [Textbooks](#textbooks)
   - [Interview guides](#interview-guides)
   - [LeetCode](#leetcode)
-- [Zig](#zig)
-- [C](#c)
-- [C game programming](#c-game-programming)
+- [Low-level programming](#low-level-programming)
+  - [Zig](#zig)
+  - [C](#c)
+  - [C game programming](#c-game-programming)
 
 ## Networking / the Web
 
@@ -96,7 +97,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 
 ### Textbooks
 
-- [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539)
+- [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) along with [VisuAlgo](https://visualgo.net/en) <!-- maybe instead: - [ ] 💲[A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/) -->
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
 - [ ] 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
@@ -124,13 +125,15 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [ ] [Another algorithms tier list](https://www.reddit.com/r/cscareerquestions/comments/v1unyi/tier_list_for_patterns_encountered_in/)
 - [ ] Other resource lists: [1](https://github.com/jwasham/coding-interview-university), [2](https://github.com/armankhondker/best-leetcode-resources), [3](https://github.com/mxssl/sre-interview-prep-guide#big-o-notation-algorithms-and-data-structures)
 
-## Zig
+## Low-level programming
+
+### Zig
 
 - [ ] [Introduction to Zig: a project-based book](https://pedropark99.github.io/zig-book)
 - [ ] [Zig - "Learn" page listing other resources](https://ziglang.org/learn)
 - [ ] Zig + raylib: [raylib-zig](https://github.com/c0utin/raylib-zig) (based on [RayZig](https://github.com/ipinzi/RayZig)?), [examples](https://github.com/Durobot/raylib-zig-examples), [a template with raygui](https://github.com/Angluca/raylib-zig-template)
 
-## C
+### C
 
 - [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
 - [ ] [CS50 problem sets (1-5)](https://cs50.harvard.edu/x/2024/psets/) and solutions: [1](https://github.com/BogdanOtava/CS50x), [2](https://github.com/kylekce/CS50x-2023), [3](https://github.com/VerisimilitudeX/CS50), [4](https://github.com/gionet/CS50-2023), [5](https://github.com/yasingunay/CS50x), [6](https://github.com/csfive/CS50x), [7](https://github.com/evieran/CS50-Solutions), [8](https://github.com/Aadv1k/cs50/tree/master/Introduction_To_Computer_Science), [9](https://github.com/uxdruh/cs50x-2024), [10](https://github.com/vncsmnl/CS50X)
@@ -139,7 +142,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [ ] Advent of Code: [CLI/runner written in C](https://github.com/breakthatbass/eggnog); I can't find any repos with solutions for all years, but probably there are repos with solutions for a specific year.
 - [ ] Look into other "better C" languages besides Zig: [Odin](https://odin-lang.org/), [Beef](https://www.beeflang.org/), [V](https://vlang.io/), [Jai](https://github.com/Jai-Community/Jai-Community-Library/wiki), [C3](https://c3-lang.org/), [MiniLang](https://github.com/NICUP14/MiniLang), and [others](https://github.com/robertmuth/awesome-low-level-programming-languages) (minus the C++ replacements like Rust, which are too complex for my purposes)
 
-## C game programming
+### C game programming
 
 - [ ] [Handmade Hero videos](https://handmadehero.org/) plus [Handmade Penguin](https://davidgow.net/handmadepenguin/) to follow along in Linux
 - [ ] [Handmade Quake videos](https://www.dropbox.com/scl/fo/l6nqvbl5v0snbd7vo2c7x/AHnBbVV6SUDYIJPSH_jGfaQ?rlkey=osvqri75z18xcds8tsi31enfg&e=1&dl=0) and [source code](https://github.com/Kobzol/handmade-quake)
