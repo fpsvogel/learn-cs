@@ -8,7 +8,13 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 <!-- omit in toc -->
 ## Table of contents
 
-- [The Web](#the-web)
+- [Networking / the Web](#networking--the-web)
+- [Hardware systems](#hardware-systems)
+- [Operating systems](#operating-systems)
+- [Concurrency](#concurrency)
+- [Database internals](#database-internals)
+  - [Database readings](#database-readings)
+  - [Database practice](#database-practice)
 - [Compilers](#compilers)
 - [Data structures and algorithms](#data-structures-and-algorithms)
   - [Textbooks](#textbooks)
@@ -18,16 +24,22 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [C](#c)
 - [C game programming](#c-game-programming)
 
-## The Web
+## Networking / the Web
 
 - **HTTP:**
-  - [x] [Hypermedia Systems, Part I: Hypermedia Concepts](https://hypermedia.systems/part/hypermedia-concepts/) by the creator of [htmx](https://htmx.org), one of [many libraries](https://htmx.org/essays/alternatives) that take a hypermedia-oriented approach to web development.
   - [x] 💲[Noah Gibbs - Rebuilding HTTP](https://noahgibbs.gumroad.com/l/rebuilding_http).
+  - [ ] [http2 explained](https://daniel.haxx.se/http2/)
+  - [ ] [HTTP/3 explained](https://http3-explained.haxx.se/)
+  - [ ] 💲[HTTP/2 in Action](https://www.manning.com/books/http2-in-action)
   - [ ] 💲[Build Your Own Web Server From Scratch In Node.JS](https://leanpub.com/byo_web_server/)
   <!-- Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
 - **Networking:**
+  - [ ] [High Performance Browser Networking](https://hpbn.co/)
+  - [ ] [Computer Networking : Principles,Protocols and Practice](https://www.computer-networking.info/)
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)
-  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro). Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro). <!-- Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) -->
+  - [ ] [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+  - [ ] Experiment with CDNs or reverse proxies (e.g. Nginx, Varnish,	HAProxy, Cloudflare) to understand caching, TLS termination, load balancing, and security filtering (rate limiting, WAF, etc.).
 - **Security:**
   - [x] 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) and the free accompanying site [Hacksplaining](https://www.hacksplaining.com/)
   - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
