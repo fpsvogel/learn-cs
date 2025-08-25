@@ -12,6 +12,8 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [Operating systems](#operating-systems)
 - [Concurrency](#concurrency)
 - [Database internals](#database-internals)
+  - [Database readings](#database-readings)
+  - [Database practice](#database-practice)
 - [Compilers](#compilers)
 - [Data structures and algorithms](#data-structures-and-algorithms)
   - [Textbooks](#textbooks)
@@ -44,6 +46,8 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 
 ## Database internals
 
+### Database readings
+
 - [ ] [How does a relational database work?](https://web.archive.org/web/20230307091314/http://coding-geek.com/how-databases-work/)
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
@@ -51,6 +55,14 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [ ] [Transaction Processing](https://archive.org/details/transactionproce0000gray/page/n5/mode/2up)
 - [ ] [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 - [ ] [Readings in Database Systems](http://www.redbook.io/)
+
+### Database practice
+
+- [ ] 💲[Build a Database Server](https://technicaldeft.com/build-a-database-server)
+- [ ] 💲[Build Your Own Database From Scratch in Go](https://leanpub.com/build_your_own_database_from_scratch/)
+- [ ] [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
+- [ ] [Build Redis from scratch](https://www.build-redis-from-scratch.dev) <!-- https://logowik.com/content/uploads/images/redis.jpg -->
+<!-- Related: [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Build Your Own Redis (incomplete)](https://rohitpaulk.com/articles/redis-0), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/) -->
 
 ## Compilers
 
