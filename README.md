@@ -16,6 +16,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
   - [Database readings](#database-readings)
   - [Database practice](#database-practice)
 - [Compilers](#compilers)
+- [Math / logic](#math--logic)
 - [Data structures and algorithms](#data-structures-and-algorithms)
   - [Textbooks](#textbooks)
   - [Interview guides](#interview-guides)
@@ -93,15 +94,25 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [ ] 💲[Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] 💲[Build Your Own Compiler from Scratch](https://build-your-own.org/compiler/)
 
+## Math / logic
+
+- [ ] 💲[Logic for Programmers](https://leanpub.com/logic)
+- [ ] 💲[Math for Programming](https://nostarch.com/math-programming)
+- [ ] 💲[Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/en-us/subject-catalog/p/concrete-mathematics-a-foundation-for-computer-science/P200000000288/9780201558029)
+- [ ] 💲[Coding The Matrix: Linear Algebra Through Computer Science Applications](https://codingthematrix.com/)
+
 ## Data structures and algorithms
 
 ### Textbooks
 
-- [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) along with [VisuAlgo](https://visualgo.net/en) <!-- maybe instead: - [ ] 💲[A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/) -->
+- [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) along with [VisuAlgo](https://visualgo.net/en)
+  - [ ] Maybe this instead: 💲[A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
+  - [ ] Or: 💲[Algorithms Unlocked](https://mitpress.mit.edu/9780262518802/algorithms-unlocked/)
+- [ ] 💲[Practical Analysis of Algorithms](https://link.springer.com/book/10.1007/978-3-319-09888-3)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
-- [ ] 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
-- [ ] 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+  - [ ] Maybe this instead: 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
+  - [ ] Or: 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
 
 ### Interview guides
 
