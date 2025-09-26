@@ -78,6 +78,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [ ] [Transaction Processing](https://archive.org/details/transactionproce0000gray/page/n5/mode/2up)
 - [ ] [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 - [ ] [Readings in Database Systems](http://www.redbook.io/)
+- [ ] [PGTune](https://pgtune.leopard.in.ua/)
 
 ### Database practice
 
