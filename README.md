@@ -3,7 +3,7 @@
 
 I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn't get a computer science degree. So this list is me catching up.
 
-My "Learn Ruby" list slightly overlaps with the material in this list, namely in the sections ["Foundations"](https://github.com/fpsvogel/learn-ruby#foundations) and ["Beyond Ruby"](https://github.com/fpsvogel/learn-ruby#beyond-ruby).
+My "Learn Ruby" list slightly overlaps with the material in this list, namely the section ["Foundations"](https://github.com/fpsvogel/learn-ruby#foundations) and some of the section["Beyond Ruby web development"](https://github.com/fpsvogel/learn-ruby#beyond-web-development), which include resources that are more engineering-related than what's in this list.
 
 <!-- omit in toc -->
 ## Table of contents
@@ -14,7 +14,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [Concurrency](#concurrency)
 - [Database internals](#database-internals)
   - [Database readings](#database-readings)
-  - [Database practice](#database-practice)
+  - [Database exercises](#database-exercises)
 - [Compilers](#compilers)
 - [Math / logic](#math--logic)
 - [Data structures and algorithms](#data-structures-and-algorithms)
@@ -80,7 +80,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely in
 - [ ] [Readings in Database Systems](http://www.redbook.io/)
 - [ ] [PGTune](https://pgtune.leopard.in.ua/)
 
-### Database practice
+### Database exercises
 
 - [ ] 💲[Build a Database Server](https://technicaldeft.com/build-a-database-server)
 - [ ] 💲[Build Your Own Database From Scratch in Go](https://leanpub.com/build_your_own_database_from_scratch/)
