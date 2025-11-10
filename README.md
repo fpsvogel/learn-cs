@@ -11,7 +11,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [Networking / the Web](#networking--the-web)
 - [Hardware systems](#hardware-systems)
 - [Operating systems](#operating-systems)
-- [Concurrency](#concurrency)
+- [Concurrency / distributed systems](#concurrency--distributed-systems)
 - [Database internals](#database-internals)
   - [Database readings](#database-readings)
   - [Database exercises](#database-exercises)
@@ -61,8 +61,10 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [xv6, a simple Unix-like teaching operating system (MIT course)](https://pdos.csail.mit.edu/6.1810/2024/xv6.html)
 
-## Concurrency
+## Concurrency / distributed systems
 
+- [ ] 💲[Foundations of Scalable Systems](https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/)
+- [ ] 💲[Designing Data-Intensive Applications, 2nd ed.](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
 - [ ] [Gossip Glomers (distibuted systems challenges)](https://fly.io/dist-sys/)
