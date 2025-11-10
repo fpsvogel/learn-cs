@@ -11,6 +11,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [Networking / the Web](#networking--the-web)
 - [Hardware systems](#hardware-systems)
 - [Operating systems](#operating-systems)
+- [Linux / command line](#linux--command-line)
 - [Concurrency / distributed systems](#concurrency--distributed-systems)
 - [Database internals](#database-internals)
   - [Database readings](#database-readings)
@@ -60,6 +61,21 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 - [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [xv6, a simple Unix-like teaching operating system (MIT course)](https://pdos.csail.mit.edu/6.1810/2024/xv6.html)
+
+## Linux / command line
+
+- [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
+- [ ] [Linux Journey](https://linuxjourney.com/)
+- [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
+- [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [ ] [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+- [ ] [Sundeep Agarwal - "Linux CLI and shell scripting" list](https://learnbyexample.github.io/curated_resources/linux_cli_scripting.html)
+- [ ] [Julia Evans - Your Linux Toolbox](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
+- [ ] 💲[Efficient Linux at the Command Line](https://www.oreilly.com/library/view/efficient-linux-at/9781098113391)
+- [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
+- [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
+- [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 
 ## Concurrency / distributed systems
 
