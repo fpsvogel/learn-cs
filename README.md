@@ -76,6 +76,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
+- [ ] 💲[Systems Performance](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
 
 ## Concurrency / distributed systems
 
