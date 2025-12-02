@@ -19,7 +19,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [Compilers](#compilers)
 - [Math / logic](#math--logic)
 - [Data structures and algorithms](#data-structures-and-algorithms)
-  - [Textbooks](#textbooks)
+  - [Textbooks / courses](#textbooks--courses)
   - [Interview guides](#interview-guides)
   - [LeetCode](#leetcode)
 - [Low-level programming](#low-level-programming)
@@ -123,11 +123,12 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 ## Data structures and algorithms
 
-### Textbooks
+### Textbooks / courses
 
 - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) along with [VisuAlgo](https://visualgo.net/en)
   - [ ] Maybe this instead: 💲[A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
   - [ ] Or: 💲[Algorithms Unlocked](https://mitpress.mit.edu/9780262518802/algorithms-unlocked/)
+- [ ] [Codeintuition](https://www.codeintuition.io/)
 - [ ] 💲[Practical Analysis of Algorithms](https://link.springer.com/book/10.1007/978-3-319-09888-3)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
