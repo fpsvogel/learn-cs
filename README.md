@@ -165,6 +165,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] [Introduction to Zig: a project-based book](https://pedropark99.github.io/zig-book)
 - [ ] [Zig - "Learn" page listing other resources](https://ziglang.org/learn)
 - [ ] 💲[Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
+- [ ] [Karl Seguin's blog](https://www.openmymind.net/)
 - [ ] Zig + raylib: [raylib-zig](https://github.com/c0utin/raylib-zig) (based on [RayZig](https://github.com/ipinzi/RayZig)?), [examples](https://github.com/Durobot/raylib-zig-examples), [a template with raygui](https://github.com/Angluca/raylib-zig-template)
 
 ### C
