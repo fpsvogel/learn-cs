@@ -163,6 +163,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 ### Zig
 
 - [ ] [Introduction to Zig: a project-based book](https://pedropark99.github.io/zig-book)
+- [ ] [Ziglings](https://codeberg.org/ziglings/exercises#ziglings)
 - [ ] [Zig - "Learn" page listing other resources](https://ziglang.org/learn)
 - [ ] 💲[Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
 - [ ] [Working with Strings in Zig](https://pmbanugo.me/blog/zig-working-with-strings)
