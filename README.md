@@ -84,6 +84,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] 💲[Designing Data-Intensive Applications, 2nd ed.](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
+- [ ] [On Transactional Concurrency Control](https://link.springer.com/book/10.1007/978-3-031-01873-2)
 - [ ] [Gossip Glomers (distibuted systems challenges)](https://fly.io/dist-sys/)
 
 ## Database internals
