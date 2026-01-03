@@ -112,6 +112,8 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 - [ ] [Destroy All Software - A Compiler from Scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
 - [ ] [Writing a compiler in Ruby, bottom up](https://hokstad.com/compiler) and related resources at the bottom of that page
+- [ ] [Let's make a Teeny Tiny compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
+- [ ] [Stanford: SOE-YCSCS1 Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers)
 - [ ] 💲[Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] 💲[Build Your Own Compiler from Scratch](https://build-your-own.org/compiler/)
 
