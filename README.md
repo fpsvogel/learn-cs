@@ -24,6 +24,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
   - [LeetCode](#leetcode)
 - [Low-level programming](#low-level-programming)
   - [Zig](#zig)
+  - [Implement a Forth](#implement-a-forth)
   - [C](#c)
   - [C game programming](#c-game-programming)
 
@@ -172,6 +173,15 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] 💲[Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
 - [ ] [Working with Strings in Zig](https://pmbanugo.me/blog/zig-working-with-strings)
 - [ ] [Karl Seguin's blog](https://www.openmymind.net/)
+
+### Implement a Forth
+
+- [ ] [Starting FORTH](https://www.forth.com/starting-forth/) or [Easy Forth](https://skilldrick.github.io/easyforth/)
+- [ ] [Thinking Forth](https://thinking-forth.sourceforge.net/)
+- [ ] [Implementing a Forth](https://ratfactor.com/forth/implementing)
+- [ ] Minimal FORTH interpreters: [1](https://news.ycombinator.com/item?id=44193519), [2](https://www.reddit.com/r/Forth/comments/229sl5/comment/cgt6i5p/)
+- [ ] [Threaded Interpretive Languages: Their Design and Implementation](https://archive.org/details/R.G.LoeligerThreadedInterpretiveLanguagesTheirDesignAndImplementationByteBooks1981)
+- [ ] [Factor](https://factorcode.org/) if I want to explore a "high-level FORTH"
 
 ### C
 
