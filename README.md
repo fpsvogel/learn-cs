@@ -47,6 +47,10 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - **Security:**
   - [x] 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) and the free accompanying site [Hacksplaining](https://www.hacksplaining.com/)
   - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
+- **Browsers:**
+  - [ ] [How Browsers Work](https://howbrowserswork.com/)
+  - [ ] [Web Browser Engineering](https://browser.engineering/)
+  - [ ] [High Performance Browser Networking](https://hpbn.co/)
 
 ## Hardware systems
 
