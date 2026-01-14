@@ -190,6 +190,8 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] [Thinking Forth](https://thinking-forth.sourceforge.net/)
 - [ ] [Implementing a Forth](https://ratfactor.com/forth/implementing)
 - [ ] Minimal FORTH interpreters: [1](https://news.ycombinator.com/item?id=44193519), [2](https://www.reddit.com/r/Forth/comments/229sl5/comment/cgt6i5p/)
+- [ ] [Fitting a Forth in 512 bytes](https://compilercrim.es/bootstrap/miniforth/)
+- [ ] [Design Decisions in the Forth Kernel](https://www.bradrodriguez.com/papers/moving1.htm)
 - [ ] [Threaded Interpretive Languages: Their Design and Implementation](https://archive.org/details/R.G.LoeligerThreadedInterpretiveLanguagesTheirDesignAndImplementationByteBooks1981)
 - [ ] [Factor](https://factorcode.org/) if I want to explore a "high-level FORTH"
 
