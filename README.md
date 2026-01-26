@@ -107,6 +107,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
 - [ ] 💲[Database Internals](https://www.databass.dev/)
 - [ ] [Transaction Processing](https://archive.org/details/transactionproce0000gray/page/n5/mode/2up)
+- [ ] [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
 - [ ] [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 - [ ] [Readings in Database Systems](http://www.redbook.io/)
 - [ ] [PGTune](https://pgtune.leopard.in.ua/)
