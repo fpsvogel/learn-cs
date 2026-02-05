@@ -73,7 +73,6 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 ## Linux / command line
 
-- [ ] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
 - [ ] [Linux Journey](https://linuxjourney.com/)
 - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
