@@ -101,7 +101,6 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 - [ ] [How does a relational database work?](https://web.archive.org/web/20230307091314/http://coding-geek.com/how-databases-work/)
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
-- [ ] [How Does a Database Work?](https://cstack.github.io/db_tutorial/)
 - [ ] 💲[Database Internals](https://www.databass.dev/)
 - [ ] [Transaction Processing](https://archive.org/details/transactionproce0000gray/page/n5/mode/2up)
 - [ ] [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
