@@ -35,8 +35,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
   - [ ] [http2 explained](https://daniel.haxx.se/http2/)
   - [ ] [HTTP/3 explained](https://http3-explained.haxx.se/)
   - [ ] 💲[HTTP/2 in Action](https://www.manning.com/books/http2-in-action)
-  - [ ] 💲[Build Your Own Web Server From Scratch In Node.JS](https://leanpub.com/byo_web_server/)
-  <!-- Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
+  - [ ] 💲[Build Your Own Web Server From Scratch In Node.JS](https://leanpub.com/byo_web_server/) <!-- Related: [Ruby HTTP server from the ground up](https://www.dmitry-ishkov.com/2021/07/ruby-http-server-from-ground-up.html), [Building a simple websockets server from scratch in Ruby](https://www.honeybadger.io/blog/building-a-simple-websockets-server-from-scratch-in-ruby/), [Build Your Own Web Server](https://codingchallenges.fyi/challenges/challenge-webserver/), [How to Build a Web App with and without Rails Libraries](https://shopify.engineering/building-web-app-ruby-rails), [a Reddit discussion with helpful comments](https://www.reddit.com/r/ruby/comments/vfc02l/newb_here_have_you_written_your_own_web_server)
 - **Networking:**
   - [ ] [High Performance Browser Networking](https://hpbn.co/)
   - [ ] [Computer Networking : Principles,Protocols and Practice](https://www.computer-networking.info/)
@@ -48,7 +47,6 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
   - [x] 💲[Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) and the free accompanying site [Hacksplaining](https://www.hacksplaining.com/)
   - [ ] [PortSwigger - web security exercises](https://portswigger.net/web-security/all-topics)
 - **Browsers:**
-  - [ ] [How Browsers Work](https://howbrowserswork.com/)
   - [ ] [Web Browser Engineering](https://browser.engineering/)
   - [ ] [High Performance Browser Networking](https://hpbn.co/)
 
