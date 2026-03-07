@@ -148,9 +148,8 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 ### Interview guides
 
-- [ ] [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-- [ ] 💲[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
-- [ ] 💲[Beyond Cracking the Coding Interview](https://www.beyondctci.com/) (solutions for free at [interviewing.io](https://start.interviewing.io))
+- [ ] [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
+- [ ] 💲[Beyond Cracking the Coding Interview](https://www.beyondctci.com/) (preview csolutions for free at [interviewing.io](https://start.interviewing.io))
 - [ ] 💲[Elements of Programming Interviews](https://elementsofprogramminginterviews.com/)
 
 ### LeetCode
