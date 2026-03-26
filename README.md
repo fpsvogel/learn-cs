@@ -63,6 +63,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
   - 💲[Virtual Circuit Board](https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/)
   - 💲[Circuit Artist](https://store.steampowered.com/app/3139580/Circuit_Artist/)
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
+- [ ] [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [ ] 💲[Digital Design and Computer Architecture](https://pages.hmc.edu/harris/ddca/)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
 
