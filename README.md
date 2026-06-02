@@ -22,6 +22,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
   - [Textbooks / courses](#textbooks--courses)
   - [Interview guides](#interview-guides)
   - [LeetCode](#leetcode)
+- [Software architecture](#software-architecture)
 - [Low-level programming](#low-level-programming)
   - [Zig](#zig)
   - [Implement a Forth](#implement-a-forth)
@@ -168,6 +169,11 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] [An interview algorithms tier list](https://www.reddit.com/r/leetcode/comments/u7452n/technical_interview_algorithms_the_tier_list/)
 - [ ] [Another algorithms tier list](https://www.reddit.com/r/cscareerquestions/comments/v1unyi/tier_list_for_patterns_encountered_in/)
 - [ ] Other resource lists: [1](https://github.com/jwasham/coding-interview-university), [2](https://github.com/armankhondker/best-leetcode-resources), [3](https://github.com/mxssl/sre-interview-prep-guide#big-o-notation-algorithms-and-data-structures)
+
+## Software architecture
+
+- [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
+- [ ] [The Architecture of Open Source Applications](https://aosabook.org/)
 
 ## Low-level programming
 
