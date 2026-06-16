@@ -181,6 +181,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 - [x] [Ziglings](https://codeberg.org/ziglings/exercises#ziglings)
 - [ ] [Zen of Zig](https://zenofzig.com/)
+- [ ] [zig.guide](https://zig.guide)
 - [x] [Learning Zig](https://www.openmymind.net/learning_zig/)
 - [ ] [Introduction to Zig: a project-based book](https://pedropark99.github.io/zig-book)
 - [ ] [Zig Cookbook](https://github.com/zigcc/zig-cookbook)
