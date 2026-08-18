@@ -75,7 +75,6 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 
 ## Linux / command line
 
-- [ ] [The Command Line Murders](https://github.com/veltman/clmystery)
 - [ ] [Linux Journey](https://linuxjourney.com/)
 - [ ] [Sundeep Agarwal - Linux Command Line Computing](https://learnbyexample.github.io/cli-computing/)
 - [ ] [The Linux Command Line](https://linuxcommand.org/tlcl.php)
@@ -87,6 +86,19 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
 - [ ] 💲[Systems Performance](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
+
+<!-- "learn terminal" for kids:
+https://github.com/KanoComputing/terminal-quest
+https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+https://github.com/veltman/clmystery
+https://overthewire.org/wargames/
+-->
+
+<!-- examples of terminal-based games:
+https://github.com/vattam/BSDGames/
+https://ascii-patrol.com/
+https://a-nikolaev.github.io/curseofwar/
+-->
 
 ## Concurrency / distributed systems
 
