@@ -3,8 +3,6 @@
 
 I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn't get a computer science degree. So this list is me catching up.
 
-My "Learn Ruby" list slightly overlaps with the material in this list, namely the section ["Foundations"](https://github.com/fpsvogel/learn-ruby#foundations) and some of the section["Beyond Ruby web development"](https://github.com/fpsvogel/learn-ruby#beyond-web-development), which include resources that are more engineering-related than what's in this list.
-
 <!-- omit in toc -->
 ## Table of contents
 
@@ -15,6 +13,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [Concurrency / distributed systems](#concurrency--distributed-systems)
 - [Database internals](#database-internals)
   - [Database readings](#database-readings)
+    - [PostgreSQL](#postgresql)
   - [Database exercises](#database-exercises)
 - [Compilers](#compilers)
 - [Math / logic](#math--logic)
@@ -23,6 +22,7 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
   - [Interview guides](#interview-guides)
   - [LeetCode](#leetcode)
 - [Software architecture](#software-architecture)
+- [Performance](#performance)
 - [Low-level programming](#low-level-programming)
   - [Zig](#zig)
   - [Implement a Forth](#implement-a-forth)
@@ -85,7 +85,6 @@ My "Learn Ruby" list slightly overlaps with the material in this list, namely th
 - [ ] 💲[How Linux Works](https://nostarch.com/howlinuxworks3)
 - [ ] 💲[Julia Evans - Bite Size zine pack](https://wizardzines.com/zines/bite-size-pack/)
 - [ ] 💲[Wicked Cool Shell Scripts](https://nostarch.com/wcss2)
-- [ ] 💲[Systems Performance](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
 
 <!-- "learn terminal" for kids:
 https://github.com/KanoComputing/terminal-quest
@@ -117,10 +116,18 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] 💲[Database Internals](https://www.databass.dev/)
 - [ ] [Transaction Processing](https://archive.org/details/transactionproce0000gray/page/n5/mode/2up)
-- [ ] [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
-- [ ] [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 - [ ] [Readings in Database Systems](http://www.redbook.io/)
 - [ ] [PGTune](https://pgtune.leopard.in.ua/)
+
+#### PostgreSQL
+
+- [ ] [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+- [ ] [Yeah, Postgres can do that](https://dev.to/efertsch/series/20415)
+- [ ] [Introduction to PostgreSQL Indexes](https://dlt.github.io/blog/posts/introduction-to-postgresql-indexes/)
+- [ ] [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
+- [ ] [PostgreSQL docs](https://www.postgresql.org/docs/current/)
+- [ ] 💲[The Art of PostgreSQL](https://theartofpostgresql.com/)
+- [ ] 💲[PostgreSQL Query Optimization: The Ultimate Guide to Building Efficient Queries](https://link.springer.com/book/10.1007/978-1-4842-6885-8)
 
 ### Database exercises
 
@@ -190,6 +197,11 @@ https://a-nikolaev.github.io/curseofwar/
   - related: [a talk by the author](https://www.youtube.com/watch?v=ChUlRa0xsWo); [functional core, imperative shell](https://www.destroyallsoftware.com/talks/boundaries)
   - [ ] [Get Your Hands Dirty on Clean Architecture](https://leanpub.com/get-your-hands-dirty-on-clean-architecture)
 - [ ] Talks on vertical slice architecture: [1](https://www.youtube.com/watch?v=SUiWfhAhgQw), [2](https://www.youtube.com/watch?v=oAoaMlS1PWo)
+
+## Performance
+
+- [ ] [Mature Optimization Handbook](https://carlos.bueno.org/optimization/)
+- [ ] 💲[Systems Performance](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)
 
 ## Low-level programming
 
