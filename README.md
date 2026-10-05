@@ -186,6 +186,10 @@ https://a-nikolaev.github.io/curseofwar/
 
 - [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 - [ ] [The Architecture of Open Source Applications](https://aosabook.org/)
+- [ ] [Hexagonal Architecture Explained](https://www.amazon.com/Hexagonal-Architecture-Explained-Alistair-Cockburn-ebook/dp/B0F5QSH28F)
+  - related: [a talk by the author](https://www.youtube.com/watch?v=ChUlRa0xsWo); [functional core, imperative shell](https://www.destroyallsoftware.com/talks/boundaries)
+  - [ ] [Get Your Hands Dirty on Clean Architecture](https://leanpub.com/get-your-hands-dirty-on-clean-architecture)
+- [ ] Talks on vertical slice architecture: [1](https://www.youtube.com/watch?v=SUiWfhAhgQw), [2](https://www.youtube.com/watch?v=oAoaMlS1PWo)
 
 ## Low-level programming
 
