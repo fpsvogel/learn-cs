@@ -102,7 +102,6 @@ https://a-nikolaev.github.io/curseofwar/
 ## Concurrency / distributed systems
 
 - [ ] 💲[Foundations of Scalable Systems](https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/)
-- [ ] 💲[Designing Data-Intensive Applications, 2nd ed.](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
 - [ ] [On Transactional Concurrency Control](https://link.springer.com/book/10.1007/978-3-031-01873-2)
@@ -191,7 +190,6 @@ https://a-nikolaev.github.io/curseofwar/
 
 ## Software architecture
 
-- [ ] [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 - [ ] [The Architecture of Open Source Applications](https://aosabook.org/)
 - [ ] [Hexagonal Architecture Explained](https://www.amazon.com/Hexagonal-Architecture-Explained-Alistair-Cockburn-ebook/dp/B0F5QSH28F)
   - related: [a talk by the author](https://www.youtube.com/watch?v=ChUlRa0xsWo); [functional core, imperative shell](https://www.destroyallsoftware.com/talks/boundaries)
