@@ -190,6 +190,7 @@ https://a-nikolaev.github.io/curseofwar/
 
 ## Software architecture
 
+- [ ] [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781098175504)
 - [ ] [The Architecture of Open Source Applications](https://aosabook.org/)
 - [ ] [Hexagonal Architecture Explained](https://www.amazon.com/Hexagonal-Architecture-Explained-Alistair-Cockburn-ebook/dp/B0F5QSH28F)
   - related: [a talk by the author](https://www.youtube.com/watch?v=ChUlRa0xsWo); [functional core, imperative shell](https://www.destroyallsoftware.com/talks/boundaries)
