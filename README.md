@@ -63,6 +63,8 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
   - 💲[Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/)
   - 💲[Virtual Circuit Board](https://store.steampowered.com/app/1885690/Virtual_Circuit_Board/)
   - 💲[Circuit Artist](https://store.steampowered.com/app/3139580/Circuit_Artist/)
+- [ ] [CS61C: Great Ideas in Computer Architecture](https://cs61c.org) and [2020 lectures](https://www.youtube.com/@berkeley-cs61c/videos) or [2014 lectures](https://archive.org/details/UCBerkeley_Course_Computer_Science_61C)
+- [ ] [Computer Organization and Design](https://archive.org/details/computerorganiza0000patt_u5t2)
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
 - [ ] [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [ ] [What's new in CPUs since the 80s?](https://danluu.com/new-cpu-features/)
@@ -72,6 +74,7 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
 ## Operating systems
 
 - [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [CS612: Operating Systems and System Programming](https://cs162.org/) and [lectures](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 - [ ] [xv6, a simple Unix-like teaching operating system (MIT course)](https://pdos.csail.mit.edu/6.1810/2024/xv6.html)
 - [ ] [Lions' Commentary on UNIX 6th Edition](https://cs3210.cc.gatech.edu/r/unix6.pdf) and [source code](https://warsus.github.io/lions-/)
 
@@ -114,6 +117,7 @@ https://a-nikolaev.github.io/curseofwar/
 ### Database readings
 
 - [ ] [How does a relational database work?](https://web.archive.org/web/20230307091314/http://coding-geek.com/how-databases-work/)
+- [ ] [CS186: Introduction to Database Systems](https://cs186berkeley.net/) and [lectures](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] 💲[Database Internals](https://www.databass.dev/)
 - [ ] [Transaction Processing](https://archive.org/details/transactionproce0000gray/page/n5/mode/2up)
@@ -162,6 +166,7 @@ https://a-nikolaev.github.io/curseofwar/
 - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) along with [VisuAlgo](https://visualgo.net/en)
   - [ ] Maybe this instead: 💲[A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
   - [ ] Or: 💲[Algorithms Unlocked](https://mitpress.mit.edu/9780262518802/algorithms-unlocked/)
+- [ ] [Algorithmic Thinking](https://nostarch.com/algorithmic-thinking-2nd-edition) (examples in C)
 - [ ] [Codeintuition](https://www.codeintuition.io/)
 - [ ] 💲[Practical Analysis of Algorithms](https://link.springer.com/book/10.1007/978-3-319-09888-3)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
@@ -233,11 +238,13 @@ https://a-nikolaev.github.io/curseofwar/
 ### C
 
 - [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
+- [ ] [Learn C in Y Minutes](https://learnxinyminutes.com/c/)
 - [ ] [CS50 problem sets (1-5)](https://cs50.harvard.edu/x/2024/psets/) and solutions: [1](https://github.com/BogdanOtava/CS50x), [2](https://github.com/kylekce/CS50x-2023), [3](https://github.com/VerisimilitudeX/CS50), [4](https://github.com/gionet/CS50-2023), [5](https://github.com/yasingunay/CS50x), [6](https://github.com/csfive/CS50x), [7](https://github.com/evieran/CS50-Solutions), [8](https://github.com/Aadv1k/cs50/tree/master/Introduction_To_Computer_Science), [9](https://github.com/uxdruh/cs50x-2024), [10](https://github.com/vncsmnl/CS50X)
 - [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
 - [ ] [Exercism - C](https://exercism.org/tracks/c)
 - [ ] Advent of Code: [CLI/runner written in C](https://github.com/breakthatbass/eggnog); I can't find any repos with solutions for all years, but probably there are repos with solutions for a specific year.
 - [ ] Look into other "better C" languages besides Zig: [Odin](https://odin-lang.org/), [Beef](https://www.beeflang.org/), [V](https://vlang.io/), [Jai](https://github.com/Jai-Community/Jai-Community-Library/wiki), [C3](https://c3-lang.org/), [MiniLang](https://github.com/NICUP14/MiniLang), and [others](https://github.com/robertmuth/awesome-low-level-programming-languages) (minus the C++ replacements like Rust, which are too complex for my purposes)
+- [ ] assembly: [MIPS on Exercism](https://exercism.org/tracks/mips), [MARS](https://dpetersanderson.github.io/), [x86-64 on Exercism](https://exercism.org/tracks/x86-64-assembly)
 
 ### C game programming
 
