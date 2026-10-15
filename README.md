@@ -199,7 +199,6 @@ https://a-nikolaev.github.io/curseofwar/
 
 - [ ] [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781098175504)
 - [ ] [The Architecture of Open Source Applications](https://aosabook.org/)
-- [ ] Talks on vertical slice architecture: [1](https://www.youtube.com/watch?v=SUiWfhAhgQw), [2](https://www.youtube.com/watch?v=oAoaMlS1PWo)
 
 ## Performance
 
