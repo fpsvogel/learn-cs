@@ -24,10 +24,9 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
 - [Software architecture](#software-architecture)
 - [Performance](#performance)
 - [Low-level programming](#low-level-programming)
+  - [C](#c)
   - [Zig](#zig)
   - [Implement a Forth](#implement-a-forth)
-  - [C](#c)
-  - [C game programming](#c-game-programming)
 
 ## Networking / the Web
 
@@ -209,6 +208,10 @@ https://a-nikolaev.github.io/curseofwar/
 
 ## Low-level programming
 
+### C
+
+See my list [Learn C](https://github.com/fpsvogel/learn-c).
+
 ### Zig
 
 - [x] [Ziglings](https://codeberg.org/ziglings/exercises#ziglings)
@@ -220,6 +223,7 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] 💲[Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
 - [ ] [Working with Strings in Zig](https://pmbanugo.me/blog/zig-working-with-strings)
 - [ ] [Karl Seguin's blog](https://www.openmymind.net/)
+- [ ] Look into other "better C" languages besides Zig: [Odin](https://odin-lang.org/), [Beef](https://www.beeflang.org/), [V](https://vlang.io/), [Jai](https://github.com/Jai-Community/Jai-Community-Library/wiki), [C3](https://c3-lang.org/), [MiniLang](https://github.com/NICUP14/MiniLang), and [others](https://github.com/robertmuth/awesome-low-level-programming-languages) (minus the C++ replacements like Rust, which are too complex for my purposes)
 
 ### Implement a Forth
 
@@ -231,23 +235,3 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] [Design Decisions in the Forth Kernel](https://www.bradrodriguez.com/papers/moving1.htm)
 - [ ] [Threaded Interpretive Languages: Their Design and Implementation](https://archive.org/details/R.G.LoeligerThreadedInterpretiveLanguagesTheirDesignAndImplementationByteBooks1981)
 - [ ] [Factor](https://factorcode.org/) if I want to explore a "high-level FORTH"
-
-### C
-
-- [ ] 💲[C Programming: A Modern Approach](http://knking.com/books/c2/index.html)
-- [ ] [Learn C in Y Minutes](https://learnxinyminutes.com/c/)
-- [ ] [CS50 problem sets (1-5)](https://cs50.harvard.edu/x/2024/psets/) and solutions: [1](https://github.com/BogdanOtava/CS50x), [2](https://github.com/kylekce/CS50x-2023), [3](https://github.com/VerisimilitudeX/CS50), [4](https://github.com/gionet/CS50-2023), [5](https://github.com/yasingunay/CS50x), [6](https://github.com/csfive/CS50x), [7](https://github.com/evieran/CS50-Solutions), [8](https://github.com/Aadv1k/cs50/tree/master/Introduction_To_Computer_Science), [9](https://github.com/uxdruh/cs50x-2024), [10](https://github.com/vncsmnl/CS50X)
-- [ ] [Tutorial on pointers and arrays in C](https://github.com/jflaherty/ptrtut13)
-- [ ] [Exercism - C](https://exercism.org/tracks/c)
-- [ ] Advent of Code: [CLI/runner written in C](https://github.com/breakthatbass/eggnog); I can't find any repos with solutions for all years, but probably there are repos with solutions for a specific year.
-- [ ] Look into other "better C" languages besides Zig: [Odin](https://odin-lang.org/), [Beef](https://www.beeflang.org/), [V](https://vlang.io/), [Jai](https://github.com/Jai-Community/Jai-Community-Library/wiki), [C3](https://c3-lang.org/), [MiniLang](https://github.com/NICUP14/MiniLang), and [others](https://github.com/robertmuth/awesome-low-level-programming-languages) (minus the C++ replacements like Rust, which are too complex for my purposes)
-- [ ] assembly: [MIPS on Exercism](https://exercism.org/tracks/mips), [MARS](https://dpetersanderson.github.io/), [x86-64 on Exercism](https://exercism.org/tracks/x86-64-assembly)
-
-### C game programming
-
-- [ ] [Handmade Hero videos](https://handmadehero.org/) plus [Handmade Penguin](https://davidgow.net/handmadepenguin/) to follow along in Linux
-- [ ] [Handmade Quake videos](https://www.dropbox.com/scl/fo/l6nqvbl5v0snbd7vo2c7x/AHnBbVV6SUDYIJPSH_jGfaQ?rlkey=osvqri75z18xcds8tsi31enfg&e=1&dl=0) and [source code](https://github.com/Kobzol/handmade-quake)
-- [ ] [Kohi Game Engine videos](https://www.youtube.com/playlist?list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj)
-- [ ] Make a game, taking inspiration from [high_impact](https://phoboslab.org/log/2024/08/high_impact), [raylib](https://www.raylib.com/), [Box2D 3.x](https://github.com/erincatto/box2c) (or see [box2d-raylib](https://github.com/erincatto/box2d-raylib))
-  - Or make a text-based game: see [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html) and [Knuth's C port of Colossal Cave Adventure](http://www.literateprogramming.com/adventure.pdf) (which, incidentally, is an example of *literate programming*, now reincarnated in [Entangled](https://entangled.github.io/))
-- [Handmade Network](https://handmade.network)
