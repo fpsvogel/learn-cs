@@ -166,6 +166,7 @@ https://a-nikolaev.github.io/curseofwar/
   - [ ] Maybe this instead: 💲[A Common-Sense Guide to Data Structures and Algorithms](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
   - [ ] Or: 💲[Algorithms Unlocked](https://mitpress.mit.edu/9780262518802/algorithms-unlocked/)
 - [ ] [Algorithmic Thinking](https://nostarch.com/algorithmic-thinking-2nd-edition) (examples in C)
+- [ ] [Data Structures and Algorithm Analysis in C](https://www.amazon.com/dp/0201498405)
 - [ ] [Codeintuition](https://www.codeintuition.io/)
 - [ ] 💲[Practical Analysis of Algorithms](https://link.springer.com/book/10.1007/978-3-319-09888-3)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
