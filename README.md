@@ -67,6 +67,7 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
 - [ ] [Dive into Systems](https://diveintosystems.org/singlepage)
 - [ ] [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [ ] [What's new in CPUs since the 80s?](https://danluu.com/new-cpu-features/)
+- [ ] 💲[Casey Muratori - Performance-Aware Programming](https://www.computerenhance.com/i/99218768/performance-aware-programming-series)
 - [ ] 💲[Digital Design and Computer Architecture](https://pages.hmc.edu/harris/ddca/)
 - [ ] 💲[Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
 
