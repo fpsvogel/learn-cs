@@ -172,6 +172,7 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
   - [ ] Maybe this instead: 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
   - [ ] Or: 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
+- [ ] [Start Doing Graph Theory](https://vertex.degree/)
 
 ### Interview guides
 
