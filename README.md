@@ -151,6 +151,10 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/)
 - [ ] 💲[Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] 💲[Build Your Own Compiler from Scratch](https://build-your-own.org/compiler/)
+- [ ] 💲[Writing a C Compiler](https://nostarch.com/writing-c-compiler)
+- [ ] 💲[Engineering a Compiler](https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-815412-0)
+- [ ] 💲[Writing an Interpreter in Go](https://interpreterbook.com/)
+- [ ] 💲[Writing a Compiler in Go](https://compilerbook.com/)
 
 ## Math / logic
 
