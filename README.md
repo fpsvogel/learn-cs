@@ -173,6 +173,7 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] [Data Structures and Algorithm Analysis in C](https://www.amazon.com/dp/0201498405)
 - [ ] [Start Doing Graph Theory](https://vertex.degree/)
 - [ ] 💲[Practical Analysis of Algorithms](https://link.springer.com/book/10.1007/978-3-319-09888-3)
+- [ ] 💲[Fabulous Adventures in Data Structures and Algorithms](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms)
 - [ ] 💲[The Algorithm Design Manual](https://www.algorist.com/) plus [lecture videos](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 - [ ] 💲[Algorithm Design](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/)
   - [ ] Maybe this instead: 💲[Algorithms](https://algs4.cs.princeton.edu/home/)
