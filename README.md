@@ -141,6 +141,12 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] [Build Your Own Redis with C/C++](https://build-your-own.org/redis/)
 - [ ] [Build Redis from scratch](https://www.build-redis-from-scratch.dev) <!-- https://logowik.com/content/uploads/images/redis.jpg -->
 <!-- Related: [Build Your Own Redis Server](https://codingchallenges.fyi/challenges/challenge-redis/), [Build Your Own Redis CLI Tool](https://codingchallenges.fyi/challenges/challenge-redis-cli/), [Build Your Own Fast, Persistent KV Store](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/), [Build Your Own Redis (incomplete)](https://rohitpaulk.com/articles/redis-0), [Rebuilding Redis in Ruby (incomplete)](https://redis.pjam.me/) -->
+<!-- References for "build your own Sidekiq":
+- [How Sidekiq Works](https://www.mikeperham.com/how-sidekiq-works/)
+- Redis-backed: [Resque](https://github.com/resque/resque), [Workerholic](https://github.com/workerholic/workerholic)
+- DB-backed: [SolidQueue](https://github.com/rails/solid_queue), [GoodJob](https://github.com/bensheldon/good_job), [DelayedJob](https://github.com/collectiveidea/delayed_job) (or [Delayed](https://github.com/betterment/delayed)), [Que](https://github.com/que-rb/que), [RocketJob](https://github.com/reidmorrison/rocketjob)
+- other: [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) is built on [Concurrent Ruby](https://github.com/ruby-concurrency/concurrent-ruby)
+-->
 
 ## Compilers
 
