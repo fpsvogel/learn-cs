@@ -180,6 +180,9 @@ https://a-nikolaev.github.io/curseofwar/
   - [ ] Or: 💲[Introduction to Algorithms](http://mitpress.mit.edu/9780262046305/introduction-to-algorithms/)
   - [ ] Orrr: 💲[Algorithms Illuminated](https://www.algorithmsilluminated.org/)
 - [ ] Competitive programming resources: [1](https://www.reddit.com/r/csMajors/comments/z4qjzx/a_guide_to_competitive_programming/), [2](https://www.reddit.com/r/Btechtards/comments/1dv6ttx/competitive_programming_resources_that_i_found/), [2.1](https://www.reddit.com/r/Btechtards/comments/1dwnioy/competitive_programming_resources_and_advice_part/)
+  - [AtCoder](https://atcoder.jp/contests/archive?category=0&keyword=beginner+contest) starting with beginner contest 042 (earlier ones are in Japanese)
+  - [CSES](https://cses.fi/problemset/)
+  - [USACO Guide](https://usaco.guide/dashboard) and [resources](https://usaco.guide/general/resources-cp)
 
 ### Interview guides
 
