@@ -202,6 +202,7 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] [Algorithms Ruby gem](https://github.com/kanwei/algorithms) that is [included in the LeetCode environment](https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages).
 - [ ] [NeetCode 250](https://neetcode.io/practice?tab=neetcode250)
 - [ ] [Grind75](https://www.techinterviewhandbook.org/grind75)
+- [ ] [Alex Xu (ByteByteGo) - Coding Interview Patterns](https://www.amazon.com/Coding-Interview-Patterns-Nail-Your/dp/1736049135)
 - [ ] [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [ ] [20 Essential Coding Patterns to Ace Your Next Coding Interview](https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3)
 - [ ] [Coding Interview Patterns](https://dvpr.gitbook.io/coding-interview-patterns)
