@@ -175,6 +175,7 @@ https://a-nikolaev.github.io/curseofwar/
 
 - [x] 💲[Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Java-2nd/dp/0672324539) along with [VisuAlgo](https://visualgo.net/en)
 - [ ] [Algorithmic Thinking](https://nostarch.com/algorithmic-thinking-2nd-edition) (examples in C)
+- [ ] [CS61B: Data Structures](https://sp26.datastructur.es/)
 - [ ] [Codeintuition](https://www.codeintuition.io/)
 - [ ] [Data Structures and Algorithm Analysis in C](https://www.amazon.com/dp/0201498405)
 - [ ] [Start Doing Graph Theory](https://vertex.degree/)
@@ -203,6 +204,7 @@ https://a-nikolaev.github.io/curseofwar/
 - [ ] [NeetCode 250](https://neetcode.io/practice?tab=neetcode250)
 - [ ] [Grind75](https://www.techinterviewhandbook.org/grind75)
 - [ ] [Alex Xu (ByteByteGo) - Coding Interview Patterns](https://www.amazon.com/Coding-Interview-Patterns-Nail-Your/dp/1736049135)
+- [ ] [Striver's A2Z DSA Sheet](http://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet) and [videos](https://www.youtube.com/@takeUforward/playlists)
 - [ ] [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [ ] [20 Essential Coding Patterns to Ace Your Next Coding Interview](https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3)
 - [ ] [Coding Interview Patterns](https://dvpr.gitbook.io/coding-interview-patterns)
