@@ -75,6 +75,7 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
 
 - [x] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [Jesse Storimer - Working with Unix Processes](https://web.archive.org/web/20260809035820/https://workingwithruby.com) (available for [download](https://web.archive.org/web/20260715044340/https://workingwithruby.com/downloads))
+- [ ] [Beej's Guide to Interprocess Communication](https://beej.us/guide/bgipc/)
 - [ ] [CS612: Operating Systems and System Programming](https://cs162.org/) and [lectures](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC)
 - [ ] [xv6, a simple Unix-like teaching operating system (MIT course)](https://pdos.csail.mit.edu/6.1810/2024/xv6.html)
 - [ ] [Lions' Commentary on UNIX 6th Edition](https://cs3210.cc.gatech.edu/r/unix6.pdf) and [source code](https://warsus.github.io/lions-/)
