@@ -40,7 +40,7 @@ I'm second-career web developer (writing mostly Ruby) since 2022, meaning I didn
   - [ ] [High Performance Browser Networking](https://hpbn.co/)
   - [ ] [Computer Networking : Principles,Protocols and Practice](https://www.computer-networking.info/)
   - [x] 💲[Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)
-  - [ ] [Jesse Storimer - Working with TCP Sockets](https://workingwithruby.com/wwtcps/intro) <!-- Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) -->
+  - [ ] [Jesse Storimer - Working with TCP Sockets](https://web.archive.org/web/20260809035820/https://workingwithruby.com) (available for [download](https://web.archive.org/web/20260715044340/https://workingwithruby.com/downloads)) <!-- Related: [How to build a network stack in Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b) -->
   - [ ] [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
   - [ ] Experiment with CDNs or reverse proxies (e.g. Nginx, Varnish,	HAProxy, Cloudflare) to understand caching, TLS termination, load balancing, and security filtering (rate limiting, WAF, etc.).
 - **Security:**
