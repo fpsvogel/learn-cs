@@ -106,7 +106,6 @@ https://a-nikolaev.github.io/curseofwar/
 
 ## Concurrency / distributed systems
 
-- [ ] 💲[Foundations of Scalable Systems](https://www.oreilly.com/library/view/foundations-of-scalable/9781098106058/)
 - [ ] [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://arxiv.org/abs/1701.00854)
 - [ ] [Distributed Systems](https://www.distributed-systems.net/index.php/books/ds4/)
 - [ ] [On Transactional Concurrency Control](https://link.springer.com/book/10.1007/978-3-031-01873-2)
